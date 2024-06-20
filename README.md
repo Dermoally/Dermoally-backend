@@ -41,12 +41,12 @@ If you want to deploy this API server to Cloud Run, you need to follow these ste
 - Fifth, copy the command below to build the image container and upload it to the Container Registry.
  ```
 gcloud builds submit \
-  --tag gcr.io/$GOOGLE_CLOUD_PROJECT/your-ml-api
+  --tag gcr.io/$GOOGLE_CLOUD_PROJECT/your-flask-api
   ```
 - Sixth, copy the command below to deploy your image container to Cloud Run.
  ```
- gcloud run deploy your-ml-api \
-  --image gcr.io/$GOOGLE_CLOUD_PROJECT/your-ml-api \
+ gcloud run deploy your-flask-api \
+  --image gcr.io/$GOOGLE_CLOUD_PROJECT/your-flask-api \
   --platform managed \
   --region your-region \
   --allow-unauthenticated \
