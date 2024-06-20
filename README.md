@@ -1,4 +1,4 @@
-# Machine Learning API Documentation 🤖
+# Flask API Documentation 🤖
 
 ## API URL 🔗
 [Your Machine Learning API](https://dermoally-vvergznbcq-et.a.run.app/)
