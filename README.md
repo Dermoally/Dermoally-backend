@@ -1,7 +1,7 @@
 # Flask API Documentation 🤖
 
 ## API URL 🔗
-[Your Machine Learning API](https://dermoally-vvergznbcq-et.a.run.app/)
+[Flask API](https://dermoally-vvergznbcq-et.a.run.app/)
 
 ## API Endpoint 🚪
 If you want to access our endpoints, you first need to access the register and login endpoints to get the JWT Token for credentials to access our Machine Learning API endpoints. You can access register and login endpoints from [Register API](https://dermoally-vvergznbcq-et.a.run.app/register) and [Login API](https://dermoally-vvergznbcq-et.a.run.app/login). For details, please check the tables below to see the API documentation and which endpoints need the JWT Token (shown in the checklist):
@@ -23,7 +23,7 @@ If you want to access our endpoints, you first need to access the register and l
 
 ## How to run this API on your local machine 💻
 If you want to run this API Server on your local machine, you need to follow these steps:
-- First, clone this repository. `git clone https://github.com/yourusername/yourproject.git`
+- First, clone this repository. `git clone https://github.com/Dermoally/Dermoally-backend.git`
 - Second, open terminal and go to this project's root directory.
 - Third, type `pip install --no-cache-dir -r requirements.txt` in your terminal to install dependencies and hit enter.
 - Fourth, type `python deploy.py` in your terminal and hit enter.
@@ -35,7 +35,7 @@ If you want to deploy this API server to Cloud Run, you need to follow these ste
 - Second, open the Cloud Shell at the top right corner in the Google Cloud Console. Make sure you enable Cloud Run API and Cloud Build API before.
 - Third, copy the command below to clone this repository into the Cloud Shell.
  ```
- git clone https://github.com/yourusername/yourproject.git
+ git clone https://github.com/Dermoally/Dermoally-backend.git
  ```
 - Fourth, go to this project's root directory in the Cloud Shell.
 - Fifth, copy the command below to build the image container and upload it to the Container Registry.
