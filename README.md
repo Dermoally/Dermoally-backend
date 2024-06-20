@@ -1,10 +1,10 @@
 # Machine Learning API Documentation 🤖
 
 ## API URL 🔗
-[Your Machine Learning API](https://your-ml-api-url.com/)
+[Your Machine Learning API](https://dermoally-vvergznbcq-et.a.run.app/)
 
 ## API Endpoint 🚪
-If you want to access our endpoints, you first need to access the register and login endpoints to get the JWT Token for credentials to access our Machine Learning API endpoints. You can access register and login endpoints from [Register API](https://your-register-api-url.com/register) and [Login API](https://your-login-api-url.com/login). For details, please check the tables below to see the API documentation and which endpoints need the JWT Token (shown in the checklist):
+If you want to access our endpoints, you first need to access the register and login endpoints to get the JWT Token for credentials to access our Machine Learning API endpoints. You can access register and login endpoints from [Register API](https://dermoally-vvergznbcq-et.a.run.app/register) and [Login API](https://dermoally-vvergznbcq-et.a.run.app/login). For details, please check the tables below to see the API documentation and which endpoints need the JWT Token (shown in the checklist):
 
 |             Endpoint            | Method |              Input              |                                          Description                                          |  JWT Token  |
 | :-----------------------------: | :----: | :-----------------------------: | :--------------------------------------------------------------------------------------------: | :---------: |
